@@ -26,4 +26,4 @@ required schema : {
 }
 
 delete data 
-DELETE : ```https://store-json-amber.vercel.app/data-server/data-delete/:YOUR UNIQUE KEY``
+DELETE : ```https://store-json-amber.vercel.app/data-server/data-delete/:YOUR UNIQUE KEY```
